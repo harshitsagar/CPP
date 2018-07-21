@@ -3,7 +3,7 @@ using namespace std ;
 int main () {
 	float radius , area ;
 	
-	cout << "enter radius : " ;
+	cout << "Enter Radius : " ;
 	cin >> radius ;
 	
 	area = (22 * radius * radius)/7;
